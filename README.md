@@ -89,7 +89,7 @@ Upload video to YouTube or Google Drive
 
 Add link here:
 
-👉 Demo Video: [Coming Soon]
+👉 Demo Video: [https://screenrec.com/share/s1m97T0uRV]
 
 ---
 
